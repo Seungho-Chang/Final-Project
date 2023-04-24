@@ -19,22 +19,21 @@ Sprint 1
 - Validate your template against HTML5 and CSS3. Validate to WCAG 2.1, Level AA. Edit as necessary to achieve validation. (V)
 - When you have a template complete that validates, make an initial commit. (V)
 
-3. Build and Azure app for your project and connect your custom domain.
+3. Build and Azure app for your project and connect your custom domain. (V)
 
 - Create an Azure app and configure it to pull from your portfolio repository. (V)
-- Configure your new Azure app to use your custom domain. (In progress)
-- Configure SSL certificate for your domain (if necessary).
+- Configure your new Azure app to use your custom domain. (V)
 
-4. Connect Google Analytics to your template so we can measure user traffic.
+4. Connect Google Analytics to your template so we can measure user traffic. (V)
 
-- Create a new Google Account (gmail). I would keep this separate from your regular email account.
-- Visit analytics.google.com and create a new Google Analytics account.
-- Get the tracking code and add it to the bottom of each page or to your template page. 
-- Verify it is correctly connected and you can see users connecting by visiting your site.
+- Create a new Google Account (gmail). I would keep this separate from your regular email account. (V)
+- Visit analytics.google.com and create a new Google Analytics account. (V)
+- Get the tracking code and add it to the bottom of each page or to your template page. (V)
+- Verify it is correctly connected and you can see users connecting by visiting your site. (V)
 
-5. Add some content to your home page so it can be identified as you.
+5. Add some content to your home page so it can be identified as you. (V)
 
-- Make a copy of your template.
-- Add content to the home page so users can correctly identify it when they visit.
-- Verify your page passes HTML5, CSS, and WCAG2.1, level AA after your edits.
-- Commit so your new changes are pushed to production.
+- Make a copy of your template. (V)
+- Add content to the home page so users can correctly identify it when they visit. (V)
+- Verify your page passes HTML5, CSS, and WCAG2.1, level AA after your edits. (V)
+- Commit so your new changes are pushed to production. (V)

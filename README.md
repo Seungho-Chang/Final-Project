@@ -57,7 +57,7 @@ Sprint 2
 2. Add social media and favicon <meta> elements to your website.
 
 - Add a favicon (V)
-- Add meta elements for social media
+- Add meta elements for social media (V)
 
 3. Legal policies and compliance for your website
 

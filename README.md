@@ -37,3 +37,38 @@ Sprint 1
 - Add content to the home page so users can correctly identify it when they visit. (V)
 - Verify your page passes HTML5, CSS, and WCAG2.1, level AA after your edits. (V)
 - Commit so your new changes are pushed to production. (V)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sprint 2
+
+1. Finish adding content to your web site.
+
+- Be sure to use feature branches. It should contain at least:
+  - Short paragraph about you (V)
+  - Photo of you (V)
+  - A downloadable resume (pdf) (V)
+- Some way to contact you. Probably an email address. (V)
+- Links to social media you wish to share. At least:
+  - LinkedIn (V)
+  - Github (V)
+- Continue validating against HTML5, CSS3, and WCAG2.1, level AA standards. Commit as necessary. When new features are ready for the public, merge your feature branch to main and push to GitHub deploying your new feature(s).
+
+2. Add social media and favicon <meta> elements to your website.
+
+- Add a favicon (V)
+- Add meta elements for social media
+
+3. Legal policies and compliance for your website
+
+- Create a privacy policy for your website. Think about context. You probably only have Google Analytics collecting data on your site. Consider having ChatGPT write a policy for you to edit. Write the privacy policy as a .html file and create a link to the privacy policy in your footer.
+- Create a terms and conditions policy for your website. Think about context. Consider having ChatGPT write a policy for you to edit. Write the terms and conditions as a .html file and create a link to the terms and conditions policy in your footer.
+- Ensure you have your copyright declaration displayed. If you are using a template from the Internet consider something like Content © Mike Colbert 2023. Leave any copyright details from your template in place. You could edit to be something like Template © xxxxxx
+- Ensure you have a way for someone to contact you displayed on your website.
+- Create a cookie policy for your website. Think about context. You probably only have Google Analytics using cookies on your site. Consider having ChatGPT write a policy for you to edit. Write the cookie policy as a .html file and create a link to the cookie policy in your footer.
+
+4. Begin an earnest attempt to drive people to your website. The goal is 100 unique visitors.
+
+- Set up at least one Google Analytics campaign.
+- Ask friends, family, and strangers to visit your site.
+- Take advantage of QR codes and NFC tags. I have them available. 

@@ -57,6 +57,10 @@
   padding: 150px 0px 0px var(--padding-left);
 }
 
+.policy-title {
+  padding: 10px 0px 0px var(--padding-left);
+}
+
 .value {
   padding: 50px 0px 0px var(--padding-left);
 }
@@ -82,6 +86,12 @@
 }
 
 .contact-explain {
+  width: 600px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.policy-explain {
   width: 600px;
   padding-top: 20px;
   padding-bottom: 10px;

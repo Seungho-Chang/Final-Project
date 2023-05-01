@@ -103,3 +103,83 @@
   float: left;
   padding-top: 50px;
 }
+
+.menu_home {
+  position: fixed;
+  top: 20px;
+  right: 510px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.menu_home:hover {
+  background-color: yellow;
+}
+
+.menu_aboutme {
+  position: fixed;
+  top: 20px;
+  right: 395px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.menu_aboutme:hover {
+  background-color: yellow;
+}
+
+.menu_education {
+  position: fixed;
+  top: 20px;
+  right: 280px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.menu_education:hover {
+  background-color: yellow;
+}
+
+.menu_experience {
+  position: fixed;
+  top: 20px;
+  right: 120px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.menu_experience:hover {
+  background-color: yellow;
+}
+
+.menu_contact {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.menu_contact:hover {
+  background-color: yellow;
+}

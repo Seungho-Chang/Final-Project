@@ -65,7 +65,7 @@ Sprint 2
 - Create a terms and conditions policy for your website. Think about context. Consider having ChatGPT write a policy for you to edit. Write the terms and conditions as a .html file and create a link to the terms and conditions policy in your footer. (V)
 - Ensure you have your copyright declaration displayed. If you are using a template from the Internet consider something like Content © Mike Colbert 2023. Leave any copyright details from your template in place. You could edit to be something like Template © xxxxxx (V)
 - Ensure you have a way for someone to contact you displayed on your website. (V)
-- Create a cookie policy for your website. Think about context. You probably only have Google Analytics using cookies on your site. Consider having ChatGPT write a policy for you to edit. Write the cookie policy as a .html file and create a link to the cookie policy in your footer.
+- Create a cookie policy for your website. Think about context. You probably only have Google Analytics using cookies on your site. Consider having ChatGPT write a policy for you to edit. Write the cookie policy as a .html file and create a link to the cookie policy in your footer. (V)
 
 4. Begin an earnest attempt to drive people to your website. The goal is 100 unique visitors.
 

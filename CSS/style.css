@@ -98,8 +98,7 @@
 }
 
 .photo > img{
-  height:450px;
-  weight:150px;
+  height: 450px;
   float: left;
   padding-top: 50px;
 }

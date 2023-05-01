@@ -40,16 +40,37 @@
   padding: 275px 0px 275px var(--padding-left);
 }
 
+.aboutme-title {
+  padding: 150px 0px 50px var(--padding-left);
+}
+
 .education-title {
   padding: 275px 0px 50px var(--padding-left);
+  padding-top: 500px;
 }
 
 .experience-title {
-  padding: 250px 0px 50px var(--padding-left);
+  padding: 150px 0px 0px var(--padding-left);
+}
+
+.contact-title {
+  padding: 150px 0px 0px var(--padding-left);
+}
+
+.policy-title {
+  padding: 10px 0px 0px var(--padding-left);
 }
 
 .value {
   padding: 50px 0px 0px var(--padding-left);
+}
+
+.aboutme-explain {
+  width: 750px;
+  padding-bottom: 100px;
+  padding-right: 50px;
+  float: right;
+  padding-top: 50px;
 }
 
 .education-explain {
@@ -62,4 +83,102 @@
   width: 600px;
   padding-top: 20px;
   padding-bottom: 10px;
+}
+
+.contact-explain {
+  width: 600px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.policy-explain {
+  width: 600px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.photo > img{
+  height: 450px;
+  float: left;
+  padding-top: 50px;
+}
+
+.menu_home {
+  position: fixed;
+  top: 20px;
+  right: 510px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.menu_home:hover {
+  background-color: yellow;
+}
+
+.menu_aboutme {
+  position: fixed;
+  top: 20px;
+  right: 395px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.menu_aboutme:hover {
+  background-color: yellow;
+}
+
+.menu_education {
+  position: fixed;
+  top: 20px;
+  right: 280px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.menu_education:hover {
+  background-color: yellow;
+}
+
+.menu_experience {
+  position: fixed;
+  top: 20px;
+  right: 120px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.menu_experience:hover {
+  background-color: yellow;
+}
+
+.menu_contact {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.menu_contact:hover {
+  background-color: yellow;
 }
